@@ -20,9 +20,11 @@
 >
 > 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
 >
-> 登录地址：http://localhost:8080/home
+> 前端地址：http://localhost:8080/springbootc171e/front/index.html
 >
-> 学生用户: user   密码: 123456
+> 用户: user   密码: 123456
+> 
+> 后端登录地址：http://localhost:8080/springbootc171e/admin/dist/index.html
 >
 > 管理员: admin   密码: 123456
 >
